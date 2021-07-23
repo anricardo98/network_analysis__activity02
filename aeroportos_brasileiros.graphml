@@ -1,0 +1,1245 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="longitude" attr.type="double" for="node" id="d4"/>
+<key attr.name="latitude" attr.type="string" for="node" id="d3"/>
+<key attr.name="codigo" attr.type="string" for="node" id="d2"/>
+<key attr.name="cidade" attr.type="string" for="node" id="d1"/>
+<key attr.name="nome" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="AUX">
+  <data key="d0">Araguaína Airport</data>
+  <data key="d1">Araguaina</data>
+  <data key="d2">AUX</data>
+  <data key="d3">-7.22787</data>
+  <data key="d4">-48.240501</data>
+</node>
+<node id="PMW">
+  <data key="d0">Brigadeiro Lysias Rodrigues Airport</data>
+  <data key="d1">Palmas</data>
+  <data key="d2">PMW</data>
+  <data key="d3">-10.291500091600001</data>
+  <data key="d4">-48.35699844359999</data>
+</node>
+<node id="BRA">
+  <data key="d0">Barreiras Airport</data>
+  <data key="d1">Barreiras</data>
+  <data key="d2">BRA</data>
+  <data key="d3">-12.078900337219238</data>
+  <data key="d4">-45.00899887084961</data>
+</node>
+<node id="BSB">
+  <data key="d0">Presidente Juscelino Kubistschek International Airport</data>
+  <data key="d1">Brasilia</data>
+  <data key="d2">BSB</data>
+  <data key="d3">-15.86916732788086</data>
+  <data key="d4">-47.92083358764648</data>
+</node>
+<node id="SSA">
+  <data key="d0">Deputado Luiz Eduardo Magalhães International Airport</data>
+  <data key="d1">Salvador</data>
+  <data key="d2">SSA</data>
+  <data key="d3">-12.9086112976</data>
+  <data key="d4">-38.3224983215</data>
+</node>
+<node id="OPS">
+  <data key="d0">Presidente João Batista Figueiredo Airport</data>
+  <data key="d1">Sinop</data>
+  <data key="d2">OPS</data>
+  <data key="d3">-11.885000228881836</data>
+  <data key="d4">-55.58610916137695</data>
+</node>
+<node id="RAO">
+  <data key="d0">Leite Lopes Airport</data>
+  <data key="d1">Ribeirao Preto</data>
+  <data key="d2">RAO</data>
+  <data key="d3">-21.136388778686523</data>
+  <data key="d4">-47.776668548583984</data>
+</node>
+<node id="CAC">
+  <data key="d0">Cascavel Airport</data>
+  <data key="d1">Cascavel</data>
+  <data key="d2">CAC</data>
+  <data key="d3">-25.0002994537</data>
+  <data key="d4">-53.5008010864</data>
+</node>
+<node id="GRU">
+  <data key="d0">Guarulhos - Governador André Franco Montoro International Airport</data>
+  <data key="d1">Sao Paulo</data>
+  <data key="d2">GRU</data>
+  <data key="d3">-23.435556411743164</data>
+  <data key="d4">-46.47305679321289</data>
+</node>
+<node id="CGB">
+  <data key="d0">Marechal Rondon Airport</data>
+  <data key="d1">Cuiaba</data>
+  <data key="d2">CGB</data>
+  <data key="d3">-15.6528997421</data>
+  <data key="d4">-56.1166992188</data>
+</node>
+<node id="GYN">
+  <data key="d0">Santa Genoveva Airport</data>
+  <data key="d1">Goiania</data>
+  <data key="d2">GYN</data>
+  <data key="d3">-16.631999969482422</data>
+  <data key="d4">-49.220699310302734</data>
+</node>
+<node id="CGR">
+  <data key="d0">Campo Grande Airport</data>
+  <data key="d1">Campo Grande</data>
+  <data key="d2">CGR</data>
+  <data key="d3">-20.468700408900002</data>
+  <data key="d4">-54.6725006104</data>
+</node>
+<node id="DOU">
+  <data key="d0">Dourados Airport</data>
+  <data key="d1">Dourados</data>
+  <data key="d2">DOU</data>
+  <data key="d3">-22.2019</data>
+  <data key="d4">-54.926601</data>
+</node>
+<node id="GIG">
+  <data key="d0">Rio Galeão – Tom Jobim International Airport</data>
+  <data key="d1">Rio De Janeiro</data>
+  <data key="d2">GIG</data>
+  <data key="d3">-22.8099994659</data>
+  <data key="d4">-43.2505569458</data>
+</node>
+<node id="UBA">
+  <data key="d0">Mário de Almeida Franco Airport</data>
+  <data key="d1">Uberaba</data>
+  <data key="d2">UBA</data>
+  <data key="d3">-19.764722824097</data>
+  <data key="d4">-47.966110229492</data>
+</node>
+<node id="UDI">
+  <data key="d0">Ten. Cel. Aviador César Bombonato Airport</data>
+  <data key="d1">Uberlandia</data>
+  <data key="d2">UDI</data>
+  <data key="d3">-18.883612</data>
+  <data key="d4">-48.225277</data>
+</node>
+<node id="VDC">
+  <data key="d0">Vitória da Conquista Airport</data>
+  <data key="d1">Vitória Da Conquista</data>
+  <data key="d2">VDC</data>
+  <data key="d3">-14.8627996445</data>
+  <data key="d4">-40.8630981445</data>
+</node>
+<node id="PLU">
+  <data key="d0">Pampulha - Carlos Drummond de Andrade Airport</data>
+  <data key="d1">Belo Horizonte</data>
+  <data key="d2">PLU</data>
+  <data key="d3">-19.851200103759766</data>
+  <data key="d4">-43.95059967041016</data>
+</node>
+<node id="SJP">
+  <data key="d0">Prof. Eribelto Manoel Reino State Airport</data>
+  <data key="d1">Sao Jose Do Rio Preto</data>
+  <data key="d2">SJP</data>
+  <data key="d3">-20.816600799599996</data>
+  <data key="d4">-49.40650177</data>
+</node>
+<node id="CWB">
+  <data key="d0">Afonso Pena Airport</data>
+  <data key="d1">Curitiba</data>
+  <data key="d2">CWB</data>
+  <data key="d3">-25.5284996033</data>
+  <data key="d4">-49.1758003235</data>
+</node>
+<node id="POA">
+  <data key="d0">Salgado Filho Airport</data>
+  <data key="d1">Porto Alegre</data>
+  <data key="d2">POA</data>
+  <data key="d3">-29.994400024414062</data>
+  <data key="d4">-51.1713981628418</data>
+</node>
+<node id="GNM">
+  <data key="d0">Guanambi Airport</data>
+  <data key="d1">Guanambi</data>
+  <data key="d2">GNM</data>
+  <data key="d3">-14.208200454711914</data>
+  <data key="d4">-42.74610137939453</data>
+</node>
+<node id="LAZ">
+  <data key="d0">Bom Jesus da Lapa Airport</data>
+  <data key="d1">Bom Jesus Da Lapa</data>
+  <data key="d2">LAZ</data>
+  <data key="d3">-13.2621002197</data>
+  <data key="d4">-43.4081001282</data>
+</node>
+<node id="AAX">
+  <data key="d0">Romeu Zema Airport</data>
+  <data key="d1">Araxa</data>
+  <data key="d2">AAX</data>
+  <data key="d3">-19.563199996948</data>
+  <data key="d4">-46.960399627686</data>
+</node>
+<node id="POJ">
+  <data key="d0">Patos de Minas Airport</data>
+  <data key="d1">Patos de Minas</data>
+  <data key="d2">POJ</data>
+  <data key="d3">-18.672800064086914</data>
+  <data key="d4">-46.4911994934082</data>
+</node>
+<node id="AFL">
+  <data key="d0">Piloto Osvaldo Marques Dias Airport</data>
+  <data key="d1">Alta Floresta</data>
+  <data key="d2">AFL</data>
+  <data key="d3">-9.8663892746</data>
+  <data key="d4">-56.1049995422</data>
+</node>
+<node id="AJU">
+  <data key="d0">Santa Maria Airport</data>
+  <data key="d1">Aracaju</data>
+  <data key="d2">AJU</data>
+  <data key="d3">-10.984000206</data>
+  <data key="d4">-37.0703010559</data>
+</node>
+<node id="MCZ">
+  <data key="d0">Zumbi dos Palmares Airport</data>
+  <data key="d1">Maceio</data>
+  <data key="d2">MCZ</data>
+  <data key="d3">-9.510809898376465</data>
+  <data key="d4">-35.79169845581055</data>
+</node>
+<node id="REC">
+  <data key="d0">Guararapes - Gilberto Freyre International Airport</data>
+  <data key="d1">Recife</data>
+  <data key="d2">REC</data>
+  <data key="d3">-8.126489639282227</data>
+  <data key="d4">-34.92359924316406</data>
+</node>
+<node id="VCP">
+  <data key="d0">Viracopos International Airport</data>
+  <data key="d1">Campinas</data>
+  <data key="d2">VCP</data>
+  <data key="d3">-23.0074005127</data>
+  <data key="d4">-47.1344985962</data>
+</node>
+<node id="AQA">
+  <data key="d0">Araraquara Airport</data>
+  <data key="d1">Araracuara</data>
+  <data key="d2">AQA</data>
+  <data key="d3">-21.812000274699997</data>
+  <data key="d4">-48.1329994202</data>
+</node>
+<node id="ARU">
+  <data key="d0">Araçatuba Airport</data>
+  <data key="d1">Aracatuba</data>
+  <data key="d2">ARU</data>
+  <data key="d3">-21.1413002014</data>
+  <data key="d4">-50.4247016907</data>
+</node>
+<node id="ATM">
+  <data key="d0">Altamira Airport</data>
+  <data key="d1">Altamira</data>
+  <data key="d2">ATM</data>
+  <data key="d3">-3.2539100646973</data>
+  <data key="d4">-52.254001617432</data>
+</node>
+<node id="BEL">
+  <data key="d0">Val de Cans/Júlio Cezar Ribeiro International Airport</data>
+  <data key="d1">Belem</data>
+  <data key="d2">BEL</data>
+  <data key="d3">-1.3792500495900002</data>
+  <data key="d4">-48.4762992859</data>
+</node>
+<node id="STM">
+  <data key="d0">Maestro Wilson Fonseca Airport</data>
+  <data key="d1">Santarem</data>
+  <data key="d2">STM</data>
+  <data key="d3">-2.4247219562530518</data>
+  <data key="d4">-54.785831451416016</data>
+</node>
+<node id="MAB">
+  <data key="d0">João Correa da Rocha Airport</data>
+  <data key="d1">Maraba</data>
+  <data key="d2">MAB</data>
+  <data key="d3">-5.36858987808</data>
+  <data key="d4">-49.1380004883</data>
+</node>
+<node id="BAZ">
+  <data key="d0">Barcelos Airport</data>
+  <data key="d1">Barcelos</data>
+  <data key="d2">BAZ</data>
+  <data key="d3">-0.981292</data>
+  <data key="d4">-62.919601</data>
+</node>
+<node id="MAO">
+  <data key="d0">Eduardo Gomes International Airport</data>
+  <data key="d1">Manaus</data>
+  <data key="d2">MAO</data>
+  <data key="d3">-3.0386099815368652</data>
+  <data key="d4">-60.04970169067383</data>
+</node>
+<node id="CKS">
+  <data key="d0">Carajás Airport</data>
+  <data key="d1">Parauapebas</data>
+  <data key="d2">CKS</data>
+  <data key="d3">-6.11527776718</data>
+  <data key="d4">-50.0013885498</data>
+</node>
+<node id="CNF">
+  <data key="d0">Tancredo Neves International Airport</data>
+  <data key="d1">Belo Horizonte</data>
+  <data key="d2">CNF</data>
+  <data key="d3">-19.62444305419922</data>
+  <data key="d4">-43.97194290161133</data>
+</node>
+<node id="FOR">
+  <data key="d0">Pinto Martins International Airport</data>
+  <data key="d1">Fortaleza</data>
+  <data key="d2">FOR</data>
+  <data key="d3">-3.776279926300049</data>
+  <data key="d4">-38.53260040283203</data>
+</node>
+<node id="IMP">
+  <data key="d0">Prefeito Renato Moreira Airport</data>
+  <data key="d1">Imperatriz</data>
+  <data key="d2">IMP</data>
+  <data key="d3">-5.53129</data>
+  <data key="d4">-47.459999</data>
+</node>
+<node id="MCP">
+  <data key="d0">Alberto Alcolumbre Airport</data>
+  <data key="d1">Macapa</data>
+  <data key="d2">MCP</data>
+  <data key="d3">0.0506640002131</data>
+  <data key="d4">-51.0722007751</data>
+</node>
+<node id="BPS">
+  <data key="d0">Porto Seguro Airport</data>
+  <data key="d1">Porto Seguro</data>
+  <data key="d2">BPS</data>
+  <data key="d3">-16.438601</data>
+  <data key="d4">-39.080898</data>
+</node>
+<node id="SDU">
+  <data key="d0">Santos Dumont Airport</data>
+  <data key="d1">Rio De Janeiro</data>
+  <data key="d2">SDU</data>
+  <data key="d3">-22.910499572799996</data>
+  <data key="d4">-43.1631011963</data>
+</node>
+<node id="BVB">
+  <data key="d0">Atlas Brasil Cantanhede Airport</data>
+  <data key="d1">Boa Vista</data>
+  <data key="d2">BVB</data>
+  <data key="d3">2.84138894081</data>
+  <data key="d4">-60.6922225952</data>
+</node>
+<node id="BVH">
+  <data key="d0">Brigadeiro Camarão Airport</data>
+  <data key="d1">Vilhena</data>
+  <data key="d2">BVH</data>
+  <data key="d3">-12.694399833679</data>
+  <data key="d4">-60.098300933838</data>
+</node>
+<node id="BYO">
+  <data key="d0">Bonito Airport</data>
+  <data key="d1">Bointo</data>
+  <data key="d2">BYO</data>
+  <data key="d3">-21.247299</data>
+  <data key="d4">-56.452499</data>
+</node>
+<node id="CAW">
+  <data key="d0">Bartolomeu Lisandro Airport</data>
+  <data key="d1">Campos</data>
+  <data key="d2">CAW</data>
+  <data key="d3">-21.698299408</data>
+  <data key="d4">-41.301700592</data>
+</node>
+<node id="CCM">
+  <data key="d0">Diomício Freitas Airport</data>
+  <data key="d1">Criciuma</data>
+  <data key="d2">CCM</data>
+  <data key="d3">-28.7244434357</data>
+  <data key="d4">-49.4213905334</data>
+</node>
+<node id="CFB">
+  <data key="d0">Cabo Frio Airport</data>
+  <data key="d1">Cabo Frio</data>
+  <data key="d2">CFB</data>
+  <data key="d3">-22.921699523900003</data>
+  <data key="d4">-42.0742988586</data>
+</node>
+<node id="JPR">
+  <data key="d0">Ji-Paraná Airport</data>
+  <data key="d1">Ji-Paraná</data>
+  <data key="d2">JPR</data>
+  <data key="d3">-10.870800018299999</data>
+  <data key="d4">-61.8465003967</data>
+</node>
+<node id="LDB">
+  <data key="d0">Governador José Richa Airport</data>
+  <data key="d1">Londrina</data>
+  <data key="d2">LDB</data>
+  <data key="d3">-23.333599090599996</data>
+  <data key="d4">-51.1301002502</data>
+</node>
+<node id="MGF">
+  <data key="d0">Regional de Maringá - Sílvio Nane Junior Airport</data>
+  <data key="d1">Maringa</data>
+  <data key="d2">MGF</data>
+  <data key="d3">-23.479444503799996</data>
+  <data key="d4">-52.01222229</data>
+</node>
+<node id="OAL">
+  <data key="d0">Cacoal Airport</data>
+  <data key="d1">Cacoal</data>
+  <data key="d2">OAL</data>
+  <data key="d3">-11.496</data>
+  <data key="d4">-61.4508</data>
+</node>
+<node id="PVH">
+  <data key="d0">Governador Jorge Teixeira de Oliveira Airport</data>
+  <data key="d1">Porto Velho</data>
+  <data key="d2">PVH</data>
+  <data key="d3">-8.70928955078125</data>
+  <data key="d4">-63.90230178833008</data>
+</node>
+<node id="ROO">
+  <data key="d0">Maestro Marinho Franco Airport</data>
+  <data key="d1">Rondonopolis</data>
+  <data key="d2">ROO</data>
+  <data key="d3">-16.586</data>
+  <data key="d4">-54.7248</data>
+</node>
+<node id="CGH">
+  <data key="d0">Congonhas Airport</data>
+  <data key="d1">Sao Paulo</data>
+  <data key="d2">CGH</data>
+  <data key="d3">-23.626110076904297</data>
+  <data key="d4">-46.65638732910156</data>
+</node>
+<node id="CMG">
+  <data key="d0">Corumbá International Airport</data>
+  <data key="d1">Corumba</data>
+  <data key="d2">CMG</data>
+  <data key="d3">-19.0119438171</data>
+  <data key="d4">-57.6713905334</data>
+</node>
+<node id="CIZ">
+  <data key="d0">Coari Airport</data>
+  <data key="d1">Coari</data>
+  <data key="d2">CIZ</data>
+  <data key="d3">-4.134059906005859</data>
+  <data key="d4">-63.132598876953125</data>
+</node>
+<node id="CLV">
+  <data key="d0">Nelson Ribeiro Guimarães Airport</data>
+  <data key="d1">Caldas Novas</data>
+  <data key="d2">CLV</data>
+  <data key="d3">-17.725299835205</data>
+  <data key="d4">-48.607498168945</data>
+</node>
+<node id="CPV">
+  <data key="d0">Presidente João Suassuna Airport</data>
+  <data key="d1">Campina Grande</data>
+  <data key="d2">CPV</data>
+  <data key="d3">-7.26992</data>
+  <data key="d4">-35.8964</data>
+</node>
+<node id="IPN">
+  <data key="d0">Usiminas Airport</data>
+  <data key="d1">Ipatinga</data>
+  <data key="d2">IPN</data>
+  <data key="d3">-19.470699310303</data>
+  <data key="d4">-42.487598419189</data>
+</node>
+<node id="IZA">
+  <data key="d0">Zona da Mata Regional Airport</data>
+  <data key="d1">Juiz de Fora</data>
+  <data key="d2">IZA</data>
+  <data key="d3">-21.5130558014</data>
+  <data key="d4">-43.1730575562</data>
+</node>
+<node id="MOC">
+  <data key="d0">Mário Ribeiro Airport</data>
+  <data key="d1">Montes Claros</data>
+  <data key="d2">MOC</data>
+  <data key="d3">-16.706899642899998</data>
+  <data key="d4">-43.818901062</data>
+</node>
+<node id="SLZ">
+  <data key="d0">Marechal Cunha Machado International Airport</data>
+  <data key="d1">Sao Luis</data>
+  <data key="d2">SLZ</data>
+  <data key="d3">-2.585360050201416</data>
+  <data key="d4">-44.23410034179688</data>
+</node>
+<node id="VIX">
+  <data key="d0">Eurico de Aguiar Salles Airport</data>
+  <data key="d1">Vitoria</data>
+  <data key="d2">VIX</data>
+  <data key="d3">-20.258057</data>
+  <data key="d4">-40.286388</data>
+</node>
+<node id="PNZ">
+  <data key="d0">Senador Nilo Coelho Airport</data>
+  <data key="d1">Petrolina</data>
+  <data key="d2">PNZ</data>
+  <data key="d3">-9.362409591674805</data>
+  <data key="d4">-40.56909942626953</data>
+</node>
+<node id="CXJ">
+  <data key="d0">Hugo Cantergiani Regional Airport</data>
+  <data key="d1">Caxias Do Sul</data>
+  <data key="d2">CXJ</data>
+  <data key="d3">-29.197099685699996</data>
+  <data key="d4">-51.1875</data>
+</node>
+<node id="IGU">
+  <data key="d0">Cataratas International Airport</data>
+  <data key="d1">Foz Do Iguacu</data>
+  <data key="d2">IGU</data>
+  <data key="d3">-25.600278854370117</data>
+  <data key="d4">-54.48500061035156</data>
+</node>
+<node id="ERN">
+  <data key="d0">Eirunepé Airport</data>
+  <data key="d1">Eirunepe</data>
+  <data key="d2">ERN</data>
+  <data key="d3">-6.639530181884766</data>
+  <data key="d4">-69.87979888916016</data>
+</node>
+<node id="TFF">
+  <data key="d0">Tefé Airport</data>
+  <data key="d1">Tefe</data>
+  <data key="d2">TFF</data>
+  <data key="d3">-3.38294005394</data>
+  <data key="d4">-64.7240982056</data>
+</node>
+<node id="FEN">
+  <data key="d0">Fernando de Noronha Airport</data>
+  <data key="d1">Fernando Do Noronha</data>
+  <data key="d2">FEN</data>
+  <data key="d3">-3.85493</data>
+  <data key="d4">-32.423302</data>
+</node>
+<node id="NAT">
+  <data key="d0">Governador Aluízio Alves International Airport</data>
+  <data key="d1">Natal</data>
+  <data key="d2">NAT</data>
+  <data key="d3">-5.768056</data>
+  <data key="d4">-35.376111</data>
+</node>
+<node id="FLN">
+  <data key="d0">Hercílio Luz International Airport</data>
+  <data key="d1">Florianopolis</data>
+  <data key="d2">FLN</data>
+  <data key="d3">-27.670278549194336</data>
+  <data key="d4">-48.5525016784668</data>
+</node>
+<node id="JPA">
+  <data key="d0">Presidente Castro Pinto International Airport</data>
+  <data key="d1">Joao Pessoa</data>
+  <data key="d2">JPA</data>
+  <data key="d3">-7.145833015440001</data>
+  <data key="d4">-34.9486122131</data>
+</node>
+<node id="PHB">
+  <data key="d0">Prefeito Doutor João Silva Filho Airport</data>
+  <data key="d1">Parnaiba</data>
+  <data key="d2">PHB</data>
+  <data key="d3">-2.89374995232</data>
+  <data key="d4">-41.73199844359999</data>
+</node>
+<node id="THE">
+  <data key="d0">Senador Petrônio Portela Airport</data>
+  <data key="d1">Teresina</data>
+  <data key="d2">THE</data>
+  <data key="d3">-5.0599398613</data>
+  <data key="d4">-42.8235015869</data>
+</node>
+<node id="IOS">
+  <data key="d0">Bahia - Jorge Amado Airport</data>
+  <data key="d1">Ilheus</data>
+  <data key="d2">IOS</data>
+  <data key="d3">-14.815999984741</data>
+  <data key="d4">-39.033199310303</data>
+</node>
+<node id="NVT">
+  <data key="d0">Ministro Victor Konder International Airport</data>
+  <data key="d1">Navegantes</data>
+  <data key="d2">NVT</data>
+  <data key="d3">-26.879999</data>
+  <data key="d4">-48.651402</data>
+</node>
+<node id="GVR">
+  <data key="d0">Coronel Altino Machado de Oliveira Airport</data>
+  <data key="d1">Governador Valadares</data>
+  <data key="d2">GVR</data>
+  <data key="d3">-18.89520072937</data>
+  <data key="d4">-41.982200622559</data>
+</node>
+<node id="IRZ">
+  <data key="d0">Tapuruquara Airport</data>
+  <data key="d1">Santa Isabel do Rio Negro</data>
+  <data key="d2">IRZ</data>
+  <data key="d3">-0.3786</data>
+  <data key="d4">-64.9923</data>
+</node>
+<node id="ITB">
+  <data key="d0">Itaituba Airport</data>
+  <data key="d1">Itaituba</data>
+  <data key="d2">ITB</data>
+  <data key="d3">-4.2423400878906</data>
+  <data key="d4">-56.000701904297</data>
+</node>
+<node id="JDO">
+  <data key="d0">Orlando Bezerra de Menezes Airport</data>
+  <data key="d1">Juazeiro Do Norte</data>
+  <data key="d2">JDO</data>
+  <data key="d3">-7.21895980835</data>
+  <data key="d4">-39.2700996399</data>
+</node>
+<node id="JOI">
+  <data key="d0">Lauro Carneiro de Loyola Airport</data>
+  <data key="d1">Joinville</data>
+  <data key="d2">JOI</data>
+  <data key="d3">-26.22450065612793</data>
+  <data key="d4">-48.797401428222656</data>
+</node>
+<node id="JTC">
+  <data key="d0">Bauru - Arealva Airport</data>
+  <data key="d1">Bauru</data>
+  <data key="d2">JTC</data>
+  <data key="d3">-22.166859140899998</data>
+  <data key="d4">-49.0502866745</data>
+</node>
+<node id="MII">
+  <data key="d0">Frank Miloye Milenkowichi–Marília State Airport</data>
+  <data key="d1">Marília</data>
+  <data key="d2">MII</data>
+  <data key="d3">-22.1968994141</data>
+  <data key="d4">-49.926399231</data>
+</node>
+<node id="LEC">
+  <data key="d0">Coronel Horácio de Mattos Airport</data>
+  <data key="d1">Lençóis</data>
+  <data key="d2">LEC</data>
+  <data key="d3">-12.4822998047</data>
+  <data key="d4">-41.2770004272</data>
+</node>
+<node id="TUR">
+  <data key="d0">Tucuruí Airport</data>
+  <data key="d1">Tucurui</data>
+  <data key="d2">TUR</data>
+  <data key="d3">-3.7860100269318</data>
+  <data key="d4">-49.72029876709</data>
+</node>
+<node id="PIN">
+  <data key="d0">Parintins Airport</data>
+  <data key="d1">Parintins</data>
+  <data key="d2">PIN</data>
+  <data key="d3">-2.6730198860168457</data>
+  <data key="d4">-56.77719879150391</data>
+</node>
+<node id="TBT">
+  <data key="d0">Tabatinga Airport</data>
+  <data key="d1">Tabatinga</data>
+  <data key="d2">TBT</data>
+  <data key="d3">-4.2556700706482</data>
+  <data key="d4">-69.93579864502</data>
+</node>
+<node id="MEA">
+  <data key="d0">Macaé Airport</data>
+  <data key="d1">Macaé</data>
+  <data key="d2">MEA</data>
+  <data key="d3">-22.343000412</data>
+  <data key="d4">-41.7659988403</data>
+</node>
+<node id="OLC">
+  <data key="d0">Senadora Eunice Micheles Airport</data>
+  <data key="d1">Sao Paulo de Olivenca</data>
+  <data key="d2">OLC</data>
+  <data key="d3">-3.46792950765</data>
+  <data key="d4">-68.9204120636</data>
+</node>
+<node id="PAV">
+  <data key="d0">Paulo Afonso Airport</data>
+  <data key="d1">Paulo Alfonso</data>
+  <data key="d2">PAV</data>
+  <data key="d3">-9.4008798599243</data>
+  <data key="d4">-38.250598907471</data>
+</node>
+<node id="PET">
+  <data key="d0">João Simões Lopes Neto International Airport</data>
+  <data key="d1">Pelotas</data>
+  <data key="d2">PET</data>
+  <data key="d3">-31.718399</data>
+  <data key="d4">-52.327702</data>
+</node>
+<node id="PFB">
+  <data key="d0">Lauro Kurtz Airport</data>
+  <data key="d1">Passo Fundo</data>
+  <data key="d2">PFB</data>
+  <data key="d3">-28.243999</data>
+  <data key="d4">-52.326599</data>
+</node>
+<node id="SJK">
+  <data key="d0">Professor Urbano Ernesto Stumpf Airport</data>
+  <data key="d1">Sao Jose Dos Campos</data>
+  <data key="d2">SJK</data>
+  <data key="d3">-23.22920036315918</data>
+  <data key="d4">-45.86149978637695</data>
+</node>
+<node id="RIA">
+  <data key="d0">Santa Maria Airport</data>
+  <data key="d1">Santa Maria</data>
+  <data key="d2">RIA</data>
+  <data key="d3">-29.711399</data>
+  <data key="d4">-53.688202</data>
+</node>
+<node id="XAP">
+  <data key="d0">Serafin Enoss Bertaso Airport</data>
+  <data key="d1">Chapeco</data>
+  <data key="d2">XAP</data>
+  <data key="d3">-27.134199142456</data>
+  <data key="d4">-52.656600952148</data>
+</node>
+<node id="PPB">
+  <data key="d0">Presidente Prudente Airport</data>
+  <data key="d1">President Prudente</data>
+  <data key="d2">PPB</data>
+  <data key="d3">-22.1751003265</data>
+  <data key="d4">-51.4245986938</data>
+</node>
+<node id="RBR">
+  <data key="d0">Plácido de Castro Airport</data>
+  <data key="d1">Rio Branco</data>
+  <data key="d2">RBR</data>
+  <data key="d3">-9.868888854980469</data>
+  <data key="d4">-67.89805603027344</data>
+</node>
+<node id="RVD">
+  <data key="d0">General Leite de Castro Airport</data>
+  <data key="d1">Rio Verde</data>
+  <data key="d2">RVD</data>
+  <data key="d3">-17.8347225189209</data>
+  <data key="d4">-50.95611190795898</data>
+</node>
+<node id="SJL">
+  <data key="d0">São Gabriel da Cachoeira Airport</data>
+  <data key="d1">Sao Gabriel</data>
+  <data key="d2">SJL</data>
+  <data key="d3">-0.14835</data>
+  <data key="d4">-66.9855</data>
+</node>
+<node id="TMT">
+  <data key="d0">Trombetas Airport</data>
+  <data key="d1">Oriximina</data>
+  <data key="d2">TMT</data>
+  <data key="d3">-1.489599943161</data>
+  <data key="d4">-56.396800994873</data>
+</node>
+<node id="CZS">
+  <data key="d0">Cruzeiro do Sul Airport</data>
+  <data key="d1">Cruzeiro do Sul</data>
+  <data key="d2">CZS</data>
+  <data key="d3">-7.59990978241</data>
+  <data key="d4">-72.7695007324</data>
+</node>
+<node id="ORX">
+  <data key="d0">Oriximiná Airport</data>
+  <data key="d1">Oriximina</data>
+  <data key="d2">ORX</data>
+  <data key="d3">-1.7140799760818481</data>
+  <data key="d4">-55.83620071411133</data>
+</node>
+<node id="BVS">
+  <data key="d0">Breves Airport</data>
+  <data key="d1">Breves</data>
+  <data key="d2">BVS</data>
+  <data key="d3">-1.6365300416946411</data>
+  <data key="d4">-50.44359970092773</data>
+</node>
+<node id="MEU">
+  <data key="d0">Monte Dourado Airport</data>
+  <data key="d1">Almeirim</data>
+  <data key="d2">MEU</data>
+  <data key="d3">-0.889839</data>
+  <data key="d4">-52.6022</data>
+</node>
+<node id="CFC">
+  <data key="d0">Caçador Airport</data>
+  <data key="d1">Cacador</data>
+  <data key="d2">CFC</data>
+  <data key="d3">-26.78840065</data>
+  <data key="d4">-50.9398002625</data>
+</node>
+<node id="JCB">
+  <data key="d0">Santa Terezinha Airport</data>
+  <data key="d1">Joacaba</data>
+  <data key="d2">JCB</data>
+  <data key="d3">-27.1714000702</data>
+  <data key="d4">-51.5532989502</data>
+</node>
+<node id="GPB">
+  <data key="d0">Tancredo Thomas de Faria Airport</data>
+  <data key="d1">Guarapuava</data>
+  <data key="d2">GPB</data>
+  <data key="d3">-25.3875007629</data>
+  <data key="d4">-51.520198822</data>
+</node>
+<node id="ERM">
+  <data key="d0">Erechim Airport</data>
+  <data key="d1">Erechim</data>
+  <data key="d2">ERM</data>
+  <data key="d3">-27.66189956665039</data>
+  <data key="d4">-52.2682991027832</data>
+</node>
+<node id="GEL">
+  <data key="d0">Santo Ângelo Airport</data>
+  <data key="d1">Santo Angelo</data>
+  <data key="d2">GEL</data>
+  <data key="d3">-28.2817</data>
+  <data key="d4">-54.169102</data>
+</node>
+<node id="SRA">
+  <data key="d0">Santa Rosa Airport</data>
+  <data key="d1">Santa Rosa</data>
+  <data key="d2">SRA</data>
+  <data key="d3">-27.9067</data>
+  <data key="d4">-54.520401</data>
+</node>
+<node id="URG">
+  <data key="d0">Rubem Berta Airport</data>
+  <data key="d1">Uruguaiana</data>
+  <data key="d2">URG</data>
+  <data key="d3">-29.7821998596</data>
+  <data key="d4">-57.0382003784</data>
+</node>
+<node id="CDJ">
+  <data key="d0">Conceição do Araguaia Airport</data>
+  <data key="d1">Conceicao Do Araguaia</data>
+  <data key="d2">CDJ</data>
+  <data key="d3">-8.348349571228027</data>
+  <data key="d4">-49.30149841308594</data>
+</node>
+<node id="CMP">
+  <data key="d0">Santana do Araguaia Airport</data>
+  <data key="d1">Santana do Araguaia</data>
+  <data key="d2">CMP</data>
+  <data key="d3">-9.31997013092041</data>
+  <data key="d4">-50.32849884033203</data>
+</node>
+<node id="GRP">
+  <data key="d0">Gurupi Airport</data>
+  <data key="d1">Gurupi</data>
+  <data key="d2">GRP</data>
+  <data key="d3">-11.73960018157959</data>
+  <data key="d4">-49.13219833374024</data>
+</node>
+<node id="MQH">
+  <data key="d0">Minaçu Airport</data>
+  <data key="d1">Minacu</data>
+  <data key="d2">MQH</data>
+  <data key="d3">-13.5491</data>
+  <data key="d4">-48.195301</data>
+</node>
+<node id="OIA">
+  <data key="d0">Ourilândia do Norte Airport</data>
+  <data key="d1">Ourilandia do Norte</data>
+  <data key="d2">OIA</data>
+  <data key="d3">-6.763100147250001</data>
+  <data key="d4">-51.0499000549</data>
+</node>
+<node id="RDC">
+  <data key="d0">Redenção Airport</data>
+  <data key="d1">Redencao</data>
+  <data key="d2">RDC</data>
+  <data key="d3">-8.033289909362793</data>
+  <data key="d4">-49.97990036010742</data>
+</node>
+<node id="STZ">
+  <data key="d0">Santa Terezinha Airport</data>
+  <data key="d1">Santa Terezinha</data>
+  <data key="d2">STZ</data>
+  <data key="d3">-10.4647216796875</data>
+  <data key="d4">-50.51861190795898</data>
+</node>
+<node id="SXO">
+  <data key="d0">São Félix do Araguaia Airport</data>
+  <data key="d1">Sao Felix do Araguaia</data>
+  <data key="d2">SXO</data>
+  <data key="d3">-11.632399559020996</data>
+  <data key="d4">-50.68960189819336</data>
+</node>
+<node id="SXX">
+  <data key="d0">São Félix do Xingu Airport</data>
+  <data key="d1">Sao Felix do Xingu</data>
+  <data key="d2">SXX</data>
+  <data key="d3">-6.6413</data>
+  <data key="d4">-51.9523</data>
+</node>
+<edge source="AUX" target="PMW"/>
+<edge source="AUX" target="BSB"/>
+<edge source="AUX" target="MAB"/>
+<edge source="PMW" target="GYN"/>
+<edge source="PMW" target="BSB"/>
+<edge source="BRA" target="BSB"/>
+<edge source="BRA" target="SSA"/>
+<edge source="BSB" target="OPS"/>
+<edge source="BSB" target="RAO"/>
+<edge source="BSB" target="CGB"/>
+<edge source="BSB" target="CNF"/>
+<edge source="BSB" target="GRU"/>
+<edge source="BSB" target="MAB"/>
+<edge source="BSB" target="UDI"/>
+<edge source="BSB" target="VCP"/>
+<edge source="BSB" target="CWB"/>
+<edge source="BSB" target="BEL"/>
+<edge source="BSB" target="CGH"/>
+<edge source="BSB" target="CGR"/>
+<edge source="BSB" target="FOR"/>
+<edge source="BSB" target="GIG"/>
+<edge source="BSB" target="GYN"/>
+<edge source="BSB" target="IMP"/>
+<edge source="BSB" target="JPA"/>
+<edge source="BSB" target="MAO"/>
+<edge source="BSB" target="MCZ"/>
+<edge source="BSB" target="NAT"/>
+<edge source="BSB" target="POA"/>
+<edge source="BSB" target="PVH"/>
+<edge source="BSB" target="RBR"/>
+<edge source="BSB" target="REC"/>
+<edge source="BSB" target="SDU"/>
+<edge source="BSB" target="SLZ"/>
+<edge source="BSB" target="SSA"/>
+<edge source="BSB" target="THE"/>
+<edge source="BSB" target="FLN"/>
+<edge source="BSB" target="VIX"/>
+<edge source="BSB" target="AJU"/>
+<edge source="BSB" target="IOS"/>
+<edge source="BSB" target="JDO"/>
+<edge source="BSB" target="PNZ"/>
+<edge source="BSB" target="MQH"/>
+<edge source="BSB" target="SJP"/>
+<edge source="SSA" target="VDC"/>
+<edge source="SSA" target="GNM"/>
+<edge source="SSA" target="LAZ"/>
+<edge source="SSA" target="AJU"/>
+<edge source="SSA" target="BPS"/>
+<edge source="SSA" target="CNF"/>
+<edge source="SSA" target="GRU"/>
+<edge source="SSA" target="IOS"/>
+<edge source="SSA" target="JPA"/>
+<edge source="SSA" target="LEC"/>
+<edge source="SSA" target="PAV"/>
+<edge source="SSA" target="REC"/>
+<edge source="SSA" target="VCP"/>
+<edge source="SSA" target="VIX"/>
+<edge source="SSA" target="CGH"/>
+<edge source="SSA" target="CPV"/>
+<edge source="SSA" target="FOR"/>
+<edge source="SSA" target="GIG"/>
+<edge source="SSA" target="MCZ"/>
+<edge source="SSA" target="NAT"/>
+<edge source="SSA" target="CWB"/>
+<edge source="SSA" target="PNZ"/>
+<edge source="SSA" target="SDU"/>
+<edge source="OPS" target="CGB"/>
+<edge source="RAO" target="GIG"/>
+<edge source="RAO" target="GRU"/>
+<edge source="RAO" target="GYN"/>
+<edge source="RAO" target="PLU"/>
+<edge source="RAO" target="SJP"/>
+<edge source="RAO" target="UDI"/>
+<edge source="RAO" target="CNF"/>
+<edge source="RAO" target="VCP"/>
+<edge source="RAO" target="CGH"/>
+<edge source="RAO" target="CWB"/>
+<edge source="RAO" target="SDU"/>
+<edge source="CAC" target="GRU"/>
+<edge source="CAC" target="CWB"/>
+<edge source="CAC" target="VCP"/>
+<edge source="GRU" target="DOU"/>
+<edge source="GRU" target="UBA"/>
+<edge source="GRU" target="UDI"/>
+<edge source="GRU" target="VDC"/>
+<edge source="GRU" target="ARU"/>
+<edge source="GRU" target="CGB"/>
+<edge source="GRU" target="CGR"/>
+<edge source="GRU" target="CNF"/>
+<edge source="GRU" target="CWB"/>
+<edge source="GRU" target="GYN"/>
+<edge source="GRU" target="IOS"/>
+<edge source="GRU" target="IPN"/>
+<edge source="GRU" target="NVT"/>
+<edge source="GRU" target="PLU"/>
+<edge source="GRU" target="POA"/>
+<edge source="GRU" target="REC"/>
+<edge source="GRU" target="SDU"/>
+<edge source="GRU" target="MAO"/>
+<edge source="GRU" target="GIG"/>
+<edge source="GRU" target="AJU"/>
+<edge source="GRU" target="BEL"/>
+<edge source="GRU" target="BPS"/>
+<edge source="GRU" target="FLN"/>
+<edge source="GRU" target="FOR"/>
+<edge source="GRU" target="IGU"/>
+<edge source="GRU" target="JPA"/>
+<edge source="GRU" target="LDB"/>
+<edge source="GRU" target="MCZ"/>
+<edge source="GRU" target="MGF"/>
+<edge source="GRU" target="NAT"/>
+<edge source="GRU" target="SLZ"/>
+<edge source="GRU" target="THE"/>
+<edge source="GRU" target="VIX"/>
+<edge source="GRU" target="JOI"/>
+<edge source="GRU" target="SJP"/>
+<edge source="GRU" target="JDO"/>
+<edge source="GRU" target="PFB"/>
+<edge source="CGB" target="GYN"/>
+<edge source="CGB" target="AFL"/>
+<edge source="CGB" target="BVH"/>
+<edge source="CGB" target="CGR"/>
+<edge source="CGB" target="CNF"/>
+<edge source="CGB" target="JPR"/>
+<edge source="CGB" target="LDB"/>
+<edge source="CGB" target="MGF"/>
+<edge source="CGB" target="OAL"/>
+<edge source="CGB" target="PVH"/>
+<edge source="CGB" target="ROO"/>
+<edge source="CGB" target="SJP"/>
+<edge source="CGB" target="VCP"/>
+<edge source="CGB" target="CGH"/>
+<edge source="CGB" target="GIG"/>
+<edge source="GYN" target="UDI"/>
+<edge source="GYN" target="CNF"/>
+<edge source="GYN" target="SDU"/>
+<edge source="GYN" target="VCP"/>
+<edge source="GYN" target="CGH"/>
+<edge source="GYN" target="GIG"/>
+<edge source="CGR" target="DOU"/>
+<edge source="CGR" target="CMG"/>
+<edge source="CGR" target="VCP"/>
+<edge source="CGR" target="CGH"/>
+<edge source="CGR" target="GIG"/>
+<edge source="CGR" target="MGF"/>
+<edge source="CGR" target="CWB"/>
+<edge source="DOU" target="VCP"/>
+<edge source="GIG" target="VCP"/>
+<edge source="GIG" target="CWB"/>
+<edge source="GIG" target="AJU"/>
+<edge source="GIG" target="BEL"/>
+<edge source="GIG" target="CGH"/>
+<edge source="GIG" target="CNF"/>
+<edge source="GIG" target="FLN"/>
+<edge source="GIG" target="FOR"/>
+<edge source="GIG" target="IGU"/>
+<edge source="GIG" target="JPA"/>
+<edge source="GIG" target="MAO"/>
+<edge source="GIG" target="MCZ"/>
+<edge source="GIG" target="NAT"/>
+<edge source="GIG" target="NVT"/>
+<edge source="GIG" target="POA"/>
+<edge source="GIG" target="REC"/>
+<edge source="GIG" target="SLZ"/>
+<edge source="GIG" target="VIX"/>
+<edge source="UBA" target="UDI"/>
+<edge source="UBA" target="CNF"/>
+<edge source="UBA" target="VCP"/>
+<edge source="UDI" target="CNF"/>
+<edge source="UDI" target="PLU"/>
+<edge source="UDI" target="VCP"/>
+<edge source="UDI" target="CGH"/>
+<edge source="VDC" target="CNF"/>
+<edge source="VDC" target="PLU"/>
+<edge source="PLU" target="CFB"/>
+<edge source="PLU" target="GVR"/>
+<edge source="PLU" target="IPN"/>
+<edge source="PLU" target="MOC"/>
+<edge source="PLU" target="AAX"/>
+<edge source="PLU" target="POJ"/>
+<edge source="PLU" target="SJK"/>
+<edge source="PLU" target="VCP"/>
+<edge source="SJP" target="VCP"/>
+<edge source="SJP" target="CGH"/>
+<edge source="CWB" target="POA"/>
+<edge source="CWB" target="CNF"/>
+<edge source="CWB" target="CXJ"/>
+<edge source="CWB" target="IGU"/>
+<edge source="CWB" target="LDB"/>
+<edge source="CWB" target="MGF"/>
+<edge source="CWB" target="SDU"/>
+<edge source="CWB" target="VCP"/>
+<edge source="CWB" target="CGH"/>
+<edge source="CWB" target="CFC"/>
+<edge source="CWB" target="FLN"/>
+<edge source="CWB" target="GPB"/>
+<edge source="CWB" target="XAP"/>
+<edge source="POA" target="CNF"/>
+<edge source="POA" target="IGU"/>
+<edge source="POA" target="JOI"/>
+<edge source="POA" target="LDB"/>
+<edge source="POA" target="MGF"/>
+<edge source="POA" target="NVT"/>
+<edge source="POA" target="PET"/>
+<edge source="POA" target="PFB"/>
+<edge source="POA" target="RIA"/>
+<edge source="POA" target="SDU"/>
+<edge source="POA" target="VCP"/>
+<edge source="POA" target="XAP"/>
+<edge source="POA" target="CGH"/>
+<edge source="POA" target="FLN"/>
+<edge source="POA" target="GEL"/>
+<edge source="POA" target="ERM"/>
+<edge source="POA" target="SRA"/>
+<edge source="GNM" target="LAZ"/>
+<edge source="AAX" target="POJ"/>
+<edge source="AJU" target="MCZ"/>
+<edge source="AJU" target="REC"/>
+<edge source="AJU" target="VCP"/>
+<edge source="AJU" target="SDU"/>
+<edge source="MCZ" target="REC"/>
+<edge source="MCZ" target="VCP"/>
+<edge source="REC" target="CNF"/>
+<edge source="REC" target="FEN"/>
+<edge source="REC" target="FOR"/>
+<edge source="REC" target="NAT"/>
+<edge source="REC" target="THE"/>
+<edge source="REC" target="VCP"/>
+<edge source="REC" target="JDO"/>
+<edge source="REC" target="PNZ"/>
+<edge source="VCP" target="AQA"/>
+<edge source="VCP" target="ARU"/>
+<edge source="VCP" target="BPS"/>
+<edge source="VCP" target="BYO"/>
+<edge source="VCP" target="CCM"/>
+<edge source="VCP" target="CFB"/>
+<edge source="VCP" target="CLV"/>
+<edge source="VCP" target="CNF"/>
+<edge source="VCP" target="CXJ"/>
+<edge source="VCP" target="FLN"/>
+<edge source="VCP" target="FOR"/>
+<edge source="VCP" target="IGU"/>
+<edge source="VCP" target="IOS"/>
+<edge source="VCP" target="IZA"/>
+<edge source="VCP" target="JDO"/>
+<edge source="VCP" target="JOI"/>
+<edge source="VCP" target="JPA"/>
+<edge source="VCP" target="JTC"/>
+<edge source="VCP" target="LDB"/>
+<edge source="VCP" target="MAO"/>
+<edge source="VCP" target="MEA"/>
+<edge source="VCP" target="MGF"/>
+<edge source="VCP" target="MII"/>
+<edge source="VCP" target="NAT"/>
+<edge source="VCP" target="NVT"/>
+<edge source="VCP" target="PFB"/>
+<edge source="VCP" target="PPB"/>
+<edge source="VCP" target="RVD"/>
+<edge source="VCP" target="SDU"/>
+<edge source="VCP" target="THE"/>
+<edge source="VCP" target="VIX"/>
+<edge source="VCP" target="XAP"/>
+<edge source="ATM" target="BEL"/>
+<edge source="ATM" target="STM"/>
+<edge source="ATM" target="ORX"/>
+<edge source="BEL" target="CKS"/>
+<edge source="BEL" target="CNF"/>
+<edge source="BEL" target="FOR"/>
+<edge source="BEL" target="IMP"/>
+<edge source="BEL" target="MAB"/>
+<edge source="BEL" target="MAO"/>
+<edge source="BEL" target="MCP"/>
+<edge source="BEL" target="STM"/>
+<edge source="BEL" target="TUR"/>
+<edge source="BEL" target="SLZ"/>
+<edge source="BEL" target="BVS"/>
+<edge source="BEL" target="MEU"/>
+<edge source="STM" target="ITB"/>
+<edge source="STM" target="MAO"/>
+<edge source="STM" target="TMT"/>
+<edge source="STM" target="MEU"/>
+<edge source="STM" target="ORX"/>
+<edge source="MAB" target="CKS"/>
+<edge source="MAB" target="TUR"/>
+<edge source="MAB" target="IMP"/>
+<edge source="MAB" target="OIA"/>
+<edge source="MAB" target="RDC"/>
+<edge source="BAZ" target="MAO"/>
+<edge source="MAO" target="BVB"/>
+<edge source="MAO" target="CIZ"/>
+<edge source="MAO" target="CNF"/>
+<edge source="MAO" target="PIN"/>
+<edge source="MAO" target="PVH"/>
+<edge source="MAO" target="TBT"/>
+<edge source="MAO" target="TFF"/>
+<edge source="MAO" target="FOR"/>
+<edge source="CKS" target="CNF"/>
+<edge source="CKS" target="OIA"/>
+<edge source="CNF" target="BPS"/>
+<edge source="CNF" target="CPV"/>
+<edge source="CNF" target="FOR"/>
+<edge source="CNF" target="IMP"/>
+<edge source="CNF" target="IPN"/>
+<edge source="CNF" target="IZA"/>
+<edge source="CNF" target="MOC"/>
+<edge source="CNF" target="SDU"/>
+<edge source="CNF" target="SLZ"/>
+<edge source="CNF" target="VIX"/>
+<edge source="CNF" target="NAT"/>
+<edge source="CNF" target="PNZ"/>
+<edge source="CNF" target="CGH"/>
+<edge source="CNF" target="IOS"/>
+<edge source="FOR" target="JPA"/>
+<edge source="FOR" target="NAT"/>
+<edge source="FOR" target="PHB"/>
+<edge source="FOR" target="SLZ"/>
+<edge source="FOR" target="THE"/>
+<edge source="FOR" target="JDO"/>
+<edge source="IMP" target="SLZ"/>
+<edge source="BPS" target="SDU"/>
+<edge source="BPS" target="CGH"/>
+<edge source="SDU" target="CAW"/>
+<edge source="SDU" target="CGH"/>
+<edge source="SDU" target="MEA"/>
+<edge source="SDU" target="SJK"/>
+<edge source="SDU" target="VIX"/>
+<edge source="SDU" target="IOS"/>
+<edge source="SDU" target="CFB"/>
+<edge source="CAW" target="MEA"/>
+<edge source="CAW" target="VIX"/>
+<edge source="CCM" target="FLN"/>
+<edge source="LDB" target="MGF"/>
+<edge source="LDB" target="CGH"/>
+<edge source="MGF" target="CGH"/>
+<edge source="PVH" target="RBR"/>
+<edge source="CGH" target="CLV"/>
+<edge source="CGH" target="CXJ"/>
+<edge source="CGH" target="FLN"/>
+<edge source="CGH" target="JOI"/>
+<edge source="CGH" target="JTC"/>
+<edge source="CGH" target="NVT"/>
+<edge source="CGH" target="PPB"/>
+<edge source="CGH" target="VIX"/>
+<edge source="CGH" target="IGU"/>
+<edge source="CGH" target="IOS"/>
+<edge source="CPV" target="PNZ"/>
+<edge source="SLZ" target="THE"/>
+<edge source="ERN" target="TFF"/>
+<edge source="TFF" target="IRZ"/>
+<edge source="TFF" target="OLC"/>
+<edge source="TFF" target="SJL"/>
+<edge source="FEN" target="NAT"/>
+<edge source="FLN" target="XAP"/>
+<edge source="FLN" target="JCB"/>
+<edge source="PHB" target="THE"/>
+<edge source="JTC" target="MII"/>
+<edge source="PFB" target="ERM"/>
+<edge source="RIA" target="GEL"/>
+<edge source="RIA" target="URG"/>
+<edge source="RBR" target="CZS"/>
+<edge source="ORX" target="MEU"/>
+<edge source="CFC" target="JCB"/>
+<edge source="JCB" target="ERM"/>
+<edge source="GEL" target="SRA"/>
+<edge source="CDJ" target="CMP"/>
+<edge source="CDJ" target="RDC"/>
+<edge source="GRP" target="MQH"/>
+<edge source="GRP" target="SXO"/>
+<edge source="OIA" target="SXX"/>
+<edge source="STZ" target="SXO"/>
+</graph></graphml>
